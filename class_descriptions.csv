@@ -1,0 +1,5 @@
+class_name,description
+class enter,move ur head to the right to trigger an enter click
+class space,smile to trigger an espace click
+class others,others classes so that it wont trigger any click
+class click,move your head down to trigger a mouse click

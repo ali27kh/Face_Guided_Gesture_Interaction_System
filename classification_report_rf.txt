@@ -1,0 +1,12 @@
+Classification Report for rf:
+
+              precision    recall  f1-score   support
+
+ class click       1.00      1.00      1.00       113
+ class enter       1.00      1.00      1.00       230
+class others       1.00      1.00      1.00       307
+ class space       1.00      1.00      1.00       159
+
+    accuracy                           1.00       809
+   macro avg       1.00      1.00      1.00       809
+weighted avg       1.00      1.00      1.00       809

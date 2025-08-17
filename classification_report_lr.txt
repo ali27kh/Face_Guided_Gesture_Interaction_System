@@ -1,0 +1,11 @@
+Classification Report for lr:
+
+              precision    recall  f1-score   support
+
+     class 1       1.00      1.00      1.00        11
+     class 2       1.00      1.00      1.00        23
+     class 3       1.00      1.00      1.00        21
+
+    accuracy                           1.00        55
+   macro avg       1.00      1.00      1.00        55
+weighted avg       1.00      1.00      1.00        55

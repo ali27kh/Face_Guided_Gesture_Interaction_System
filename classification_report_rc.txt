@@ -1,0 +1,11 @@
+Classification Report for rc:
+
+              precision    recall  f1-score   support
+
+     class 1       1.00      1.00      1.00        11
+     class 2       0.92      1.00      0.96        23
+     class 3       1.00      0.90      0.95        21
+
+    accuracy                           0.96        55
+   macro avg       0.97      0.97      0.97        55
+weighted avg       0.97      0.96      0.96        55
