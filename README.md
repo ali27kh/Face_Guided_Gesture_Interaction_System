@@ -103,7 +103,7 @@ class FaceAnalysisApp:
   
 - **Test Video**:
 
-  https://github.com/user-attachments/assets/959bcd77-778d-4a59-a515-cb237f7a8910
+  https://github.com/user-attachments/assets/f3ea80b0-27bb-4af0-b230-d316d118baa1
   
 - **Output**: Models trained on face landmarks and the results of best model are saved on plots.
 
