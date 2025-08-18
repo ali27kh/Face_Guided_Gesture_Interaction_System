@@ -4,6 +4,7 @@
 This project develops a **Tkinter-based interface** for collecting face landmark data to train a **deep learning model** for detecting head movements and facial gestures. The system enables both head-controlled mouse movement and gesture-based keyboard actions by mapping **four classes (default, enter, space, click)** to real-time interactions. Using MediaPipe for face tracking, the solution provides mouse-free and keyboard-free interaction, with a user-friendly GUI for data collection, model training, testing, class management, and user management.
 
 Face and head-tracking systems enable individuals with severe motor impairments to control a computer using natural movements of their face or head—offering a vital, hands-free alternative to standard input devices like a keyboard or mouse ([arXiv:1109.1454](https://arxiv.org/pdf/1109.1454)).
+
 ---
 
 ## 📂 Dataset
