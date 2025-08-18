@@ -101,7 +101,10 @@ class FaceAnalysisApp:
 
   ![Tkinter Interface](interface.png)
   
-- **Test Video**: [Application Demo](test_app.mp4)
+- **Test Video**:
+
+  https://github.com/user-attachments/assets/959bcd77-778d-4a59-a515-cb237f7a8910
+  
 - **Output**: Models trained on face landmarks and the results of best model are saved on plots.
 
 ---
